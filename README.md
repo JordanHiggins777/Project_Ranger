@@ -1,7 +1,7 @@
 # Project_Ranger
-<details>
-  <summary>Onshape Assignments</summary>
-<details>
-<summary>CASTER</summary>
-<details>
+<details open>
+<summary> The 3D Printed Parts </summary>
+<br>
+kjsnskjcnksjdncksjndcksnkcnjdskdjcnskdjcnskdjnskdnskdjsnkdjcnskdjnc
+</details>
 
