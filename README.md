@@ -10,8 +10,32 @@
 <summary> The Shell </summary>
 <br>
 
+   In order to make the shell we need we had to take "The best of both worlds"
+   
+   
    <p align="center">
   <img width="300" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/Chop.PNG"> 
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
   
 </details>
 
