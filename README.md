@@ -38,6 +38,8 @@ Time to sand off the imperfections
 And now for a layer of primer
    
    <img width="300" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/Primer.PNG"> 
+    
+Now to repeat this prosess again and again until it is right, no cracks and seemless transition.
       
       
       
