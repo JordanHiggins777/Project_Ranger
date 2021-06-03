@@ -41,7 +41,7 @@ And now for a layer of primer
     
 After this cuts have to be made to fit things like a battery, oled, pi, rev trigger(ect)
    
-      <img width="300" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/cutsandstuff.PNG"> 
+   <img width="300" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/cutsandstuff.PNG"> 
       
       
       
