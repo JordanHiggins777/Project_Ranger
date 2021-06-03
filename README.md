@@ -42,6 +42,17 @@ And now for a layer of primer
 After this cuts have to be made to fit things like a battery, oled, pi, rev trigger(ect)
    
    <img width="300" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/cutsandstuff.PNG"> 
+   
+   
+   
+   
+   
+   
+   | Things that work well  | things that could work better| things we've yet to do  |
+| ------------- |:-------------:| -----:|
+| The epoxy adhered very well to the plastic      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
       
       
       
