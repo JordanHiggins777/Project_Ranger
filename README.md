@@ -17,24 +17,21 @@
    
   So chop shop both and you may see where this is going 
    
-   <p align="center">
   <img width="300" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/Chop.PNG"> 
       
       
      Now we have to epoxy
       
-      
-         <p align="center">
+
   <img width="300" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/Epoxy.PNG"> 
             
             But this looks sloppy and unatural so its time to put some spot putty on
-            
-                     <p align="center">
+
   <img width="300" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/Spot%20putty.PNG"> 
                         
                         Time to sand off the imperfections
                         
-                                             <p align="center">
+
   <img width="300" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/Sand.PNG"> 
                         
                         
