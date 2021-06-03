@@ -8,3 +8,15 @@
 kjsnskjcnksjdncksjndcksnkcnjdskdjcnskdjcnskdjnskdnskdjsnkdjcnskdjnc
 </details>
 
+<details closed>
+<summary> The 3D Printed Parts </summary>
+<br>
+kjsnskjcnksjdncksjndcksnkcnjdskdjcnskdjcnskdjnskdnskdjsnkdjcnskdjnc
+</details>
+
+<details closed>
+<summary> The 3D Printed Parts </summary>
+<br>
+kjsnskjcnksjdncksjndcksnkcnjdskdjcnskdjcnskdjnskdnskdjsnkdjcnskdjnc
+</details>
+
