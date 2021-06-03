@@ -9,7 +9,7 @@
 <details closed>
 <summary> The Shell </summary>
 <br>
-kjsnskjcnksjdncksjndcksnkcnjdskdjcnskdjcnskdjnskdnskdjsnkdjcnskdjnc
+![alt text](https://github.com/JordanHiggins777/Project_Ranger/blob/main/Chop.PNG)
 </details>
 
 <details closed>
