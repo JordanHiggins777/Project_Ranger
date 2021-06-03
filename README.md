@@ -50,9 +50,10 @@ After this cuts have to be made to fit things like a battery, oled, pi, rev trig
    
    | Things that work well  | things that could work better| things we've yet to do  |
 | ------------- |:-------------:| -----:|
-| The epoxy adhered very well to the plastic      | right-aligned | $1600 |
+| The epoxy adhered very well to the plastic 
+   sdjfhsdfj| right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| zebra stripes | are neat      |    $1 Paint the shell and give it a final clear coat |
       
       
       
