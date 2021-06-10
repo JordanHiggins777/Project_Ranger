@@ -97,7 +97,8 @@ Tasks  | Compleation:  :heavy_check_mark: = Done  :x: = Not done  :heavy_minus_s
  Shell Integration | :heavy_check_mark: 
  Shell Cuts | :heavy_check_mark: 
  Shell Filing | :heavy_minus_sign: 
- Shell Clean Up | :heavy_minus_sign:  
+ Shell Clean Up | :heavy_minus_sign:
+ Painting the Shell | :x:
  3D Printed Rev Trigger | :x: 
  3D Printed Mag Release | :heavy_check_mark: 
  3D Printed Battery Pack | :heavy_check_mark: 
