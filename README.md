@@ -98,6 +98,12 @@ Tasks  | Compleation:  :heavy_check_mark: = Done  :x: = Not done  :heavy_minus_s
  Shell Cuts | :heavy_check_mark: 
  Shell Filing | :heavy_minus_sign: 
  Shell Clean Up | :heavy_minus_sign:  
+ 3D Printed Rev Trigger | :heavy_check_mark: 
+ 3D Printed Mag Release | :heavy_check_mark: 
+ 3D Printed Battery Pack | :heavy_check_mark: 
+ 3D Printed Oled Cage | :heavy_minus_sign:
+ 3D Printed Pusher Lever | :x:
+ 3D Printed Lidar and Camera Box | :heavy_minus_sign:
  Wiring the Oled | :heavy_check_mark:  
  Wiring the Camera and Laser| :heavy_check_mark:  
  Wiring the LIDAR Sensor | :x:  
