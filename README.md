@@ -74,6 +74,8 @@ After this cuts have to be made to fit things like a battery, oled, pi, rev trig
 <summary> The 3D Printed Parts </summary>
 <br>
 kjsnskjcnksjdncksjndcksnkcnjdskdjcnskdjcnskdjnskdnskdjsnkdjcnskdjnc
+   
+     <img width="400" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/3dparts.JPG"> 
 </details>
 
 <details closed>
