@@ -89,8 +89,13 @@ kjsnskjcnksjdncksjndcksnkcnjdskdjcnskdjcnskdjnskdnskdjsnkdjcnskdjnc
 </details>
 
 <details closed>
-<summary> The Shell </summary>
+<summary> What we got done vs what we still need to do. </summary>
 <br>
-kjsnskjcnksjdncksjndcksnkcnjdskdjcnskdjcnskdjnskdnskdjsnkdjcnskdjnc
+
+| What we got done  | What we still need to do |
+ ------------- | ------------- 
+ Content Cell  | Content Cell  
+ Content Cell  | Content Cell  
+
 </details>
 
