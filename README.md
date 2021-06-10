@@ -98,7 +98,7 @@ Tasks  | Compleation:  :heavy_check_mark: = Done  :x: = Not done  :heavy_minus_s
  Shell Cuts | :heavy_check_mark: 
  Shell Filing | :heavy_minus_sign: 
  Shell Clean Up | :heavy_minus_sign:  
- 3D Printed Rev Trigger | :heavy_check_mark: 
+ 3D Printed Rev Trigger | :x: 
  3D Printed Mag Release | :heavy_check_mark: 
  3D Printed Battery Pack | :heavy_check_mark: 
  3D Printed Oled Cage | :heavy_minus_sign:
@@ -109,6 +109,10 @@ Tasks  | Compleation:  :heavy_check_mark: = Done  :x: = Not done  :heavy_minus_s
  Wiring the LIDAR Sensor | :x:  
  Wiring the Motors | :heavy_check_mark: 
  Wiring the Rev Switch | :heavy_check_mark:  
- Wiring the Battery/XT-60 | :heavy_check_mark:  
+ Wiring the Battery/XT-60 | :heavy_check_mark: 
+ Coding the OLED  | :heavy_check_mark: 
+ Coding the Camera | :heavy_check_mark: 
+ Coding the LIDAR | :x: 
+   
 </details>
 
