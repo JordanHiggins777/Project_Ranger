@@ -95,17 +95,14 @@ kjsnskjcnksjdncksjndcksnkcnjdskdjcnskdjcnskdjnskdnskdjsnkdjcnskdjnc
 Tasks  | Compleation :heavy_check_mark: = Done :x: = Not done  :heavy_minus_sign: = In Progress
  ------------- | ------------- 
  Shell integration | :heavy_check_mark: 
-   
-  Shell cuts | :heavy_check_mark: 
-   
-    Shell Filing | :heavy_minus_sign: 
-   
+ Shell cuts | :heavy_check_mark: 
+ Shell Filing | :heavy_minus_sign: 
  Shell clean up | :heavy_minus_sign:  
-   Wiring the Oled | :x:  
-     Wiring the camera| :x:  
-  Wiring the lidar | :x:  
-      Wiring the Oled | :x:  
-    Shell integration | :x:  
+ Wiring the Oled | :x:  
+ Wiring the camera| :x:  
+ Wiring the lidar | :x:  
+ Wiring the Oled | :x:  
+ Shell integration | :x:  
   shell cuts | :x:  
 </details>
 
