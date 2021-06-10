@@ -92,17 +92,17 @@ kjsnskjcnksjdncksjndcksnkcnjdskdjcnskdjcnskdjnskdnskdjsnkdjcnskdjnc
 <summary> What we got done vs what we still need to do. </summary>
 <br>
 
-Tasks  | Compleation :heavy_check_mark: = Done :x: = Not done  :heavy_minus_sign: = In Progress
+Tasks  | Compleation:  :heavy_check_mark: = Done  :x: = Not done  :heavy_minus_sign: = In Progress
  ------------- | ------------- 
- Shell integration | :heavy_check_mark: 
- Shell cuts | :heavy_check_mark: 
+ Shell Integration | :heavy_check_mark: 
+ Shell Cuts | :heavy_check_mark: 
  Shell Filing | :heavy_minus_sign: 
- Shell clean up | :heavy_minus_sign:  
- Wiring the Oled | :x:  
- Wiring the camera| :x:  
- Wiring the lidar | :x:  
- Wiring the Oled | :x:  
- Shell integration | :x:  
-  shell cuts | :x:  
+ Shell Clean Up | :heavy_minus_sign:  
+ Wiring the Oled | :heavy_check_mark:  
+ Wiring the Camera and Laser| :heavy_check_mark:  
+ Wiring the LIDAR Sensor | :x:  
+ Wiring the Motors | :heavy_check_mark: 
+ Wiring the Rev Switch | :heavy_check_mark:  
+ Wiring the Battery/XT-60 | :heavy_check_mark:  
 </details>
 
