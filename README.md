@@ -92,7 +92,7 @@ kjsnskjcnksjdncksjndcksnkcnjdskdjcnskdjcnskdjnskdnskdjsnkdjcnskdjnc
 <summary> What we got done vs what we still need to do. </summary>
 <br>
 
-| What we got done  | What we still need to do |
+What we got done  | What we still need to do 
  ------------- | ------------- 
  Content Cell  | Content Cell  
  Content Cell  | Content Cell  
