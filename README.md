@@ -92,10 +92,17 @@ kjsnskjcnksjdncksjndcksnkcnjdskdjcnskdjcnskdjnskdnskdjsnkdjcnskdjnc
 <summary> What we got done vs what we still need to do. </summary>
 <br>
 
-What we got done  | What we still need to do 
+Tasks  | Compleation :heavy_check_mark: = Done :x: = Not done  :heavy_minus_sign: = In Progress
  ------------- | ------------- 
- Content Cell  | Content Cell  
- Content Cell  | Content Cell  
-
+ Shell integration | :heavy_check_mark: 
+  Shell cuts | :heavy_check_mark:  
+    Shell Filing | :heavy_minus_sign:  
+ Shell clean up | :heavy_minus_sign:  
+   Wiring the Oled | :x:  
+     Wiring the camera| :x:  
+  Wiring the lidar | :x:  
+      Wiring the Oled | :x:  
+    Shell integration | :x:  
+  shell cuts | :x:  
 </details>
 
