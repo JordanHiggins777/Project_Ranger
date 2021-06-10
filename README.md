@@ -75,7 +75,7 @@ After this cuts have to be made to fit things like a battery, oled, pi, rev trig
 <br>
 kjsnskjcnksjdncksjndcksnkcnjdskdjcnskdjcnskdjnskdnskdjsnkdjcnskdjnc
    
-     <img width="400" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/3dparts.JPG"> 
+     <img width="300" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/3dparts.png"> 
 </details>
 
 <details closed>
