@@ -10,36 +10,36 @@
 <summary> The Shell </summary>
 <br>
 
-   In order to make the shell we need we had to take "The best of both worlds"
+   ### In order to make the shell we need we had to take "The best of both worlds"
    
   <img width="600" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/both%20worlds.PNG"> 
    
-  So chop shop both and you may see where this is going 
+ ### So chop shop both and you may see where this is going 
    
   <img width="300" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/Chop.PNG"> 
       
       
- Now we have to epoxy
+### Now we have to epoxy
       
 
   <img width="300" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/Epoxy.PNG"> 
             
-But this looks sloppy and unatural so its time to put some spot putty on
+### But this looks sloppy and unatural so its time to put some spot putty on
 
   <img width="300" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/Spot%20putty.PNG"> 
                         
-Time to sand off the imperfections
+### Time to sand off the imperfections
                         
 
   <img width="300" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/Sand.PNG"> 
                         
                         
             
-And now for a layer of primer
+### And now for a layer of primer
    
    <img width="300" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/Primer.PNG"> 
     
-After this cuts have to be made to fit things like a battery, oled, pi, rev trigger(ect)
+### After this cuts have to be made to fit things like a battery, oled, pi, rev trigger(ect)
    
    <img width="300" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/cutsandstuff.PNG"> 
    
