@@ -100,9 +100,7 @@ kjsnskjcnksjdncksjndcksnkcnjdskdjcnskdjcnskdjnskdnskdjsnkdjcnskdjnc
    <img width="900" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/materials.PNG"> 
    
    
-<details closed>
-<summary> Shopping List </summary>
-<br>   
+# Shopping List
    
 Item  | Link
 ------------- | ------------- 
@@ -120,9 +118,6 @@ Pi Camera | https://www.amazon.com/Raspberry-Pi-Camera-Module-Megapixel/dp/B01ER
 Oled Screen | https://www.ebay.com/itm/303334623039?chn=ps&mkevt=1&mkcid=28
 LIDAR Sensor | https://www.sparkfun.com/products/14032
 Lipo Battery | https://outofdarts.com/collections/batteries-chargers/products/graphene-950mah-xt60
-
-   
-</details>
    
    
 </details>
