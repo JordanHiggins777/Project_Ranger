@@ -12,7 +12,7 @@
 
    In order to make the shell we need we had to take "The best of both worlds"
    
-  <img width="300" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/both%20worlds.PNG"> 
+  <img width="600" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/both%20worlds.PNG"> 
    
   So chop shop both and you may see where this is going 
    
