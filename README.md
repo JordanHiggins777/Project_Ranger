@@ -150,7 +150,7 @@ Tasks  | Compleation:  :heavy_check_mark: = Done  :x: = Not done  :heavy_minus_s
  Wiring the Battery/XT-60 | :heavy_check_mark: 
  Coding the OLED  | :heavy_check_mark: 
  Coding the Camera | :heavy_check_mark: 
- Coding the LIDAR | :x: 
+ Coding the LIDAR | :heavy_minus_sign: 
    
 </details>
 
