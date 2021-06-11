@@ -83,7 +83,9 @@
 <details closed>
 <summary> The Code </summary>
 <br>
-kjsnskjcnksjdncksjndcksnkcnjdskdjcnskdjcnskdjnskdnskdjsnkdjcnskdjnc
+   
+   It seems what code this project did have has vanished into a sea of raspberry pi's never to be seen again so instead we have
+[Corins Explanation and Breakdown :tm:](https://docs.google.com/presentation/d/1kC6Iq2mJe4OgHZj7pHiL5dz0srJc9bVK3q16_SVc-_I/edit?usp=sharing)
 </details>
 
 <details closed>
