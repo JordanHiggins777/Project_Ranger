@@ -93,7 +93,7 @@
 <br>
 Nico: "My job for our project was the wiring and I had to wire up the pi camera, OLED screen, and laser. The main challenge I ran into was time management, I had limited time in the sigma lab,  and limited resources at my house. Despite these challenges I was able to wire up the necessary components. My original wiring is at the school, that is why I do not have the laser in my wiring picture. We were going to use lidar to detect the laser point and make it our target. This whole wiring was supposed to fit inside of the blaster and the OLED screen was meant to display the corrections needed for the dart to hit the target."
    
-<img width="400" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/wires.PNG"> 
+<img width="600" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/wires.PNG"> 
    (One of my wires broke so I didn’t have enough to wire the SCL port)
    
    
