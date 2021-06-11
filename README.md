@@ -97,7 +97,7 @@ kjsnskjcnksjdncksjndcksnkcnjdskdjcnskdjcnskdjnskdnskdjsnkdjcnskdjnc
 <summary> Materials </summary>
 <br>
    
-   
+   <img width="900" src="https://github.com/JordanHiggins777/Project_Ranger/blob/main/materials.PNG"> 
    
    
 <details closed>
