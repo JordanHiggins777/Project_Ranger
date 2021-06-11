@@ -2,7 +2,7 @@
 
 # Project_Ranger:tm:
 
-## [The plan.](https://docs.google.com/presentation/d/1V07V4oMX6rR0zrcOJrXR6CwsMRg8p46A6sB8ayAkjh0/edit?usp=sharing)
+## [The Plan.](https://docs.google.com/presentation/d/1V07V4oMX6rR0zrcOJrXR6CwsMRg8p46A6sB8ayAkjh0/edit?usp=sharing)
 </button>
 
 
@@ -91,6 +91,37 @@ kjsnskjcnksjdncksjndcksnkcnjdskdjcnskdjcnskdjnskdnskdjsnkdjcnskdjnc
 <br>
 kjsnskjcnksjdncksjndcksnkcnjdskdjcnskdjcnskdjnskdnskdjsnkdjcnskdjnc
 </details>
+
+
+<details closed>
+<summary> Materials </summary>
+<br>
+   
+   
+   
+   
+<details closed>
+<summary> Shopping List </summary>
+<br>   
+   
+Item  | Link
+------------- | ------------- 
+Nerf Stryfe| https://www.amazon.com/Nerf-N-Strike-Elite-Strife-Blaster/dp/B01GPOL4UO
+Nerf Longstrike | https://www.amazon.com/Longstrike-Nerf-Extension-Six-Dart-Exclusive/dp/B07B3KS1B8
+Raspberry Pi Zero | https://www.adafruit.com/product/2885?gclid=Cj0KCQjw8IaGBhCHARIsAGIRRYpwdSTZ_i2Ee7UcsPfXZkOq7sSyJlg9vylwor0_1E1cd-yNOW7tzrUaAoAAEALw_wcB
+Pi Camera | https://www.amazon.com/Raspberry-Pi-Camera-Module-Megapixel/dp/B01ER2SKFS
+Oled Screen | https://www.ebay.com/itm/303334623039?chn=ps&mkevt=1&mkcid=28
+LIDAR Sensor | https://www.sparkfun.com/products/14032
+Lipo Battery | https://outofdarts.com/collections/batteries-chargers/products/graphene-950mah-xt60
+
+   
+</details>
+   
+   
+</details>
+
+
+
 
 <details closed>
 <summary> What we got done vs what we still need to do. </summary>
